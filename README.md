@@ -45,7 +45,7 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.preprocessing import StandardScaler
 
 # Load your dataset
-data = pd.read_csv(r'C:\Users\admin\Downloads\food_items_binary (1).csv')  # Replace with your dataset file
+data = pd.read_csv('food_items_binary.csv')  # Replace with your dataset file
 
 # Separate features and target
 X = data.drop(columns=['class'])  # Replace 'class' with your target column name
