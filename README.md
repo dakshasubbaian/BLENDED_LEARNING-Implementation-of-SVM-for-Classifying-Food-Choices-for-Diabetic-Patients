@@ -32,6 +32,7 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 ## Program:
 
 Developed by: DAKSHA SUBBAIAN
+
 RegisterNumber: 212223230036
 ```
 Program to implement SVM for food classification for diabetic patients.
